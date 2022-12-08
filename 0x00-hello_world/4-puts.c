@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/**
+ *print the sentence without using a printf
+ */
+
 int main(void)
 
 {

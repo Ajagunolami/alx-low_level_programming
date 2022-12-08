@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- *main - print the sentence without using a printf
+ * main - Entry point
  *
- *return - print zero in the end  
-*/
+ * Return: Always 0 (Success)
+ */
 int main(void)
 
 {

@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- *print the sentence without using a printf
- */
-
+ *main - print the sentence without using a printf
+ *return - print 0 in the end  
+*/
 int main(void)
 
 {

@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 /**
- *  * main - prints the alphabet in lowercase, and then in uppercase,
- *   * followed by a new line
- *    * Return: Always 0 (Success)
- *     */
+ * main- print the lowercase and then uppercase
+ * execte anytime it is run
+ * Return: 0
+ */
 int main(void)
 {
 	int ch;
-	
+
 	for (ch = 'a'; ch <= 'z'; ch++)
 		putchar(ch);
 	for (ch = 'A'; ch <= 'Z'; ch++)

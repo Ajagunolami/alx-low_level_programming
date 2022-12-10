@@ -1,0 +1,17 @@
+#include <stdio.h>
+/**
+ *main- put character for a game
+ *Description: execute at everytime it run
+ *print the character inputed
+ *Return: 0
+ */
+int main(void)
+{
+	int ch;
+	
+	for (ch = 'a'; a <= 'z'; a++)
+		putchar(ch);
+	for (ch = 'A'; A <= 'Z'; A++)
+		putchar(ch);
+	return (0);
+}

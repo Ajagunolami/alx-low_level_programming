@@ -5,7 +5,7 @@
  *main- assign random number to n int anytime
  *Description: execute at everytime it run
  *print the polarity of the number
- *return: Always zero everytime (Success)
+ *Return: 0
  */
 int main(void)
 {

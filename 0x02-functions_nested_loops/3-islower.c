@@ -4,7 +4,7 @@
  * look for lower case
  * Return: 1 if c is lower case
  */
-int _izlower(int x) 
+int _islower(int x) 
 {
 	return (x >= 'a' && x <= 'z');
 }

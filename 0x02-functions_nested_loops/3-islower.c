@@ -1,8 +1,9 @@
 #include "main.h"
 /**
- * int _islower - use this code and
- * look for lower case
- * Return: 1 if c is lower case
+ * _islower - use this code
+ * @x: see as viraiable
+ * Description: look for lower case
+ * Return: 1 if x is lower case
  */
 int _islower(int x) 
 {

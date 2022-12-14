@@ -5,7 +5,7 @@
  * Description: look for lower case
  * Return: 1 if x is lower case
  */
-int _islower(int x) 
+int _islower(int x)
 {
 	return (x >= 'a' && x <= 'z');
 }
